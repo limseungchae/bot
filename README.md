@@ -1,14 +1,16 @@
 # Node.js 다운로드
-https:nodejs.org
+[Node.js 다운로드](https://nodejs.org)
 
 # 터미널
+```bash
 npm init -y <br/>
 npm i discord.js
+```
 
 # 디스코드 봇생성 주소 
-https://discord.com/developers/
+[디스코드 봇 생성](https://discord.com/developers/)
 # 디스코드 이벤트 주소
-https://gist.github.com/Iliannnn/f4985563833e2538b1b96a8cb89d72bb
+[디스코드 이벤트 코드](https://gist.github.com/Iliannnn/f4985563833e2538b1b96a8cb89d72bb)
 #
 ![봇1](https://github.com/limseungchae/bot/assets/121989706/7803017b-d293-4dc6-8a59-81d3c8281180)
 
